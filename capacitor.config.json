@@ -1,0 +1,6 @@
+{
+  "appId": "com.mc2.eng",
+  "appName": "com.mc2.eng",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
